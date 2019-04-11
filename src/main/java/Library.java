@@ -5,6 +5,7 @@ public class Library {
 	public static void main(String arg[]) {
 		System.out.println("this is redo for the second time damn!!!");
 	}
+	//on huantingwei
     public boolean someLibraryMethod() {
         return true;
     }
