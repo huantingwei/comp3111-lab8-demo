@@ -3,9 +3,9 @@
  */
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("this is redo for ON TRUMP!");
+		System.out.println("this is redo for ON kim!");
 	}
-	//on huantingwei
+	//on huantingwei again
     public boolean someLibraryMethod() {
         return true;
     }
