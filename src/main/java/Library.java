@@ -3,7 +3,7 @@
  */
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("this is redo for the second time damn!!!");
+		System.out.println("this is redo for ON TRUMP!");
 	}
 	//on huantingwei
     public boolean someLibraryMethod() {
